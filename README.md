@@ -2,7 +2,7 @@
 
 In this article, we are going to provide you with a free course to develop a full-fledged realtime chat app in MEVN (MongoDB, Express, Vue JS, and Node JS) Stack. Here M stands for MongoDB which we have used as a database. E stands for Express which is a Node JS framework. V stands for Vue JS which will be our frontend. We will be creating a single-page application in Vue JS. And N stands for Node JS which will be our backend.
 
-# Screenshots
+# Screenshot
 
 ![Single page chat application in MEVN stack](https://adnan-tech.com/uploads/Single-page-chat-application-in-Vue-JS-Node-JS-and-Mongo-DB.png)
 
