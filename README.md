@@ -4,7 +4,7 @@ In this article, we are going to provide you with a free course to develop a ful
 
 # Screenshot
 
-![Single page chat application in MEVN stack]([https://adnan-tech.com/uploads/Single-page-chat-application-in-Vue-JS-Node-JS-and-Mongo-DB.png](https://adnan-tech.com/wp-content/uploads/2023/04/Single-page-chat-application-in-Vue-JS-Node-JS-and-Mongo-DB.png))
+![Single page chat application in MEVN stack](https://adnan-tech.com/uploads/Single-page-chat-application-in-Vue-JS-Node-JS-and-Mongo-DB.png)
 
 # Features
 
